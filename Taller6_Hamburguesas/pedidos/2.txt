@@ -1,0 +1,18 @@
+RESTAURANTE DE HAMBURGUESAS DPOO
+--------------------------------
+
+ID pedido: 2
+Nombre cliente: fer
+Dirección cliente: vrst
+
+Artículos comprados
+--------------------------------
+22. agua cristal con gas -> $5000.0
+
+--------------------------------
+Precio neto: $5000.0
+IVA: $950.0
+Precio total: $5950.0
+--------------------------------
+
+¡Gracias por su compra!

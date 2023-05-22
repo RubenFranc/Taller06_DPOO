@@ -1,0 +1,33 @@
+RESTAURANTE DE HAMBURGUESAS DPOO
+--------------------------------
+
+ID pedido: 3
+Nombre cliente: Ruben
+Dirección cliente: dgsdfdsdfs
+
+Artículos comprados
+--------------------------------
+26. combo especial -> $32085.0
+  -especial
+  -papas medianas
+  -gaseosa
+26. combo especial -> $32085.0
+  -especial
+  -papas medianas
+  -gaseosa
+26. combo especial -> $32085.0
+  -especial
+  -papas medianas
+  -gaseosa
+26. combo especial -> $32085.0
+  -especial
+  -papas medianas
+  -gaseosa
+
+--------------------------------
+Precio neto: $128340.0
+IVA: $24384.6
+Precio total: $152724.6
+--------------------------------
+
+¡Gracias por su compra!

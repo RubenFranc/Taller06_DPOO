@@ -1,0 +1,25 @@
+RESTAURANTE DE HAMBURGUESAS DPOO
+--------------------------------
+
+ID pedido: 1
+Nombre cliente: 
+Dirección cliente: r
+
+Artículos comprados
+--------------------------------
+23. combo corral -> $24550.0
+  (Con adición de queso mozzarella,)
+23. combo corral -> $22050.0
+  (Sin queso mozzarella,)
+23. combo corral -> $22050.0
+  -corral
+  -papas medianas
+  -gaseosa
+
+--------------------------------
+Precio neto: $68650.0
+IVA: $13043.5
+Precio total: $81693.5
+--------------------------------
+
+¡Gracias por su compra!

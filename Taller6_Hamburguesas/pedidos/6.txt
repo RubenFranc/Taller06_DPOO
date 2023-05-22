@@ -1,0 +1,18 @@
+RESTAURANTE DE HAMBURGUESAS DPOO
+--------------------------------
+
+ID pedido: 6
+Nombre cliente: Rubén
+Dirección cliente: Dirección
+
+Artículos comprados
+--------------------------------
+0. ProductoPrueba -> $10000.0
+
+--------------------------------
+Precio neto: $10000.0
+IVA: $1900.0
+Precio total: $11900.0
+--------------------------------
+
+¡Gracias por su compra!
