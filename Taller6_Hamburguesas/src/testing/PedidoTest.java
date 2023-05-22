@@ -15,9 +15,11 @@ public class PedidoTest {
 	
 	private static Pedido pedido;
 	private static Producto producto;
+	private static Producto productoExcepcion;
 	
 	@BeforeAll
 	public static void setUp() throws Exception {
+		productoExcepcion = new ProductoMenu("ProductoExcepcion",200000.0,0);
 		producto = new ProductoMenu("ProductoPrueba",10000.0,0);
 		pedido = new Pedido("Rubén","Dirección",5);
 		pedido.agregarProducto(producto);
@@ -36,6 +38,13 @@ public class PedidoTest {
 				()->assertTrue(pedido.getProductos().contains(producto))
 				);
 	}
+	
+	@Test
+    public void testException() {
+        assertThrows(Exception.class, () -> {
+            pedido.agregarProducto(productoExcepcion);
+        });
+    }
 	
 	@Test
 	public void testGenerarTextoFactura() {
